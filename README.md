@@ -1,2 +1,3 @@
 # go-commons
-common helpers
+
+Common helpers to use in golang projects
